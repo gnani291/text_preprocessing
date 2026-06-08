@@ -2,11 +2,11 @@
 
 A hands-on implementation of essential text preprocessing techniques used in Natural Language Processing (NLP) using Python, NLTK, and SpaCy.
 
-## 🚀 Open in Google Colab
+# 🚀 Open in Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16-9yWTfglR-IG3gSS4J2h99lOA3lNaqI?usp=sharing)
 
-## 📌 Overview
+#📌 Overview
 
 This notebook demonstrates fundamental text preprocessing operations that prepare raw text data for machine learning and NLP applications.
 
