@@ -10,7 +10,7 @@ A hands-on implementation of essential text preprocessing techniques used in Nat
 
 This notebook demonstrates fundamental text preprocessing operations that prepare raw text data for machine learning and NLP applications.
 
-## ✨ Topics Covered
+# ✨ Topics Covered
 
 - Word Tokenization
 - Sentence Tokenization
@@ -21,7 +21,7 @@ This notebook demonstrates fundamental text preprocessing operations that prepar
 - Stopword Removal using SpaCy
 - Text Cleaning Pipeline
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 - Python
 - NLTK
