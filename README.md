@@ -28,14 +28,14 @@ This notebook demonstrates fundamental text preprocessing operations that prepar
 - SpaCy
 - Google Colab
 
-## 📂 Project Structure
+#📂 Project Structure
 
 ```text
 Text_preprocessing.ipynb
 README.md
 ```
 
-## 🎯 Learning Outcomes
+# 🎯 Learning Outcomes
 
 After completing this notebook, you will understand:
 
@@ -44,7 +44,7 @@ After completing this notebook, you will understand:
 - How stopword removal improves text quality
 - Basic NLP preprocessing workflows
 
-## ▶️ Getting Started
+# ▶️ Getting Started
 
 1. Clone the repository
 
