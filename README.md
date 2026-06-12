@@ -64,7 +64,7 @@ pip install nltk spacy
 jupyter notebook Text_preprocessing.ipynb
 ```
 
-## 📈 Applications
+# 📈 Applications
 
 - Sentiment Analysis
 - Chatbots
@@ -73,7 +73,7 @@ jupyter notebook Text_preprocessing.ipynb
 - Search Engines
 - Language Models
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 **Gnani Tadiparthi**
 
